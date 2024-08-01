@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/anusiyagwebtech/Mini-FakestoreApi-Ecommerce/static/css/main.e1776711.css",
+    "main.js": "/anusiyagwebtech/Mini-FakestoreApi-Ecommerce/static/js/main.a36d08aa.js",
+    "static/media/heroimg.png": "/anusiyagwebtech/Mini-FakestoreApi-Ecommerce/static/media/heroimg.424b8991942bcb25ea11.png",
+    "index.html": "/anusiyagwebtech/Mini-FakestoreApi-Ecommerce/index.html",
+    "main.e1776711.css.map": "/anusiyagwebtech/Mini-FakestoreApi-Ecommerce/static/css/main.e1776711.css.map",
+    "main.a36d08aa.js.map": "/anusiyagwebtech/Mini-FakestoreApi-Ecommerce/static/js/main.a36d08aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1776711.css",
+    "static/js/main.a36d08aa.js"
+  ]
+}
